@@ -3,7 +3,7 @@
 # 📺 LS TV - Premium IPTV Streaming Experience
 
 [![Platform](https://img.shields.io/badge/Platform-Mobile%20|%20TV%20|%20Web-FF4B2B?style=for-the-badge&logo=android)](https://github.com/neelniloy/lstv_app)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/neelniloy/lstv_app/releases)
+[![Version](https://img.shields.io/badge/Version-1.5.6-blue?style=for-the-badge)](https://github.com/neelniloy/lstv_app/releases)
 [![Web](https://img.shields.io/badge/Web-Live%20Demo-9cf?style=for-the-badge&logo=vercel)](https://lstv-web.vercel.app/)
 
 **LS TV is a high-performance, cross-platform streaming experience designed for Android Mobile, Android TV, and the Web. Access thousands of public streams with a sleek, cinematic interface wherever you are.**
@@ -72,5 +72,5 @@ LS TV is purely a media player and does not own, host, or distribute any media c
 ---
 
 <div align="center">
-  Made with ❤️ by <a href="https://github.com/neelniloy">Neel Niloy</a>
+  Made with ❤️ by <a href="https://github.com/neelniloy">Niloy Sarker</a>
 </div>
