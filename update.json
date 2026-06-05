@@ -2,6 +2,6 @@
   "latest_version_code": 16,
   "latest_version_name": "1.6.0",
   "update_url": "https://github.com/neelniloy/lstv_app/releases/download/LSTV/app-release.apk",
-  "update_changelog": "• Fixed remote channel changing issues\n• Added support for page/channel remote keys\n• Improved update mechanism",
+  "update_changelog": "",
   "is_critical_update": false
 }
