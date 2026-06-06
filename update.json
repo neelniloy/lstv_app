@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 17,
-  "latest_version_name": "1.6.1",
+  "latest_version_code": 18,
+  "latest_version_name": "1.6.2",
   "update_url": "https://github.com/neelniloy/lstv_app/releases/download/LSTV/app-release.apk",
   "update_changelog": "",
   "is_critical_update": false
