@@ -3,8 +3,8 @@
 # 📺 LS TV - Premium IPTV Streaming Experience
 
 [![Platform](https://img.shields.io/badge/Platform-Mobile%20|%20TV%20|%20Web-FF4B2B?style=for-the-badge&logo=android)](https://github.com/neelniloy/lstv_app)
-[![Version](https://img.shields.io/badge/Version-1.5.6-blue?style=for-the-badge)](https://github.com/neelniloy/lstv_app/releases)
-[![Web](https://img.shields.io/badge/Web-Live%20Demo-9cf?style=for-the-badge&logo=vercel)](https://lstv-web.vercel.app/)
+[![Version](https://img.shields.io/badge/Version-1.6.7-blue?style=for-the-badge)](https://github.com/neelniloy/lstv_app/releases)
+[![Web](https://img.shields.io/badge/Web-Live%20Demo-9cf?style=for-the-badge&logo=vercel)](https://lstv-web.pages.dev/)
 
 **LS TV is a high-performance, cross-platform streaming experience designed for Android Mobile, Android TV, and the Web. Access thousands of public streams with a sleek, cinematic interface wherever you are.**
 
@@ -12,7 +12,7 @@
 
 ---
 
-[**Download APK**](https://github.com/neelniloy/lstv_backend/releases/download/latest/app-release.apk) • [**Open Web App**](https://lstv-web.vercel.app/) • [**Join Community**](https://t.me/lstv_app)
+[**Download APK**](https://github.com/neelniloy/lstv_backend/releases/download/latest/app-release.apk) • [**Open Web App**](https://lstv-web.pages.dev/) • [**Join Community**](https://t.me/+O4EIsOZK6nQ2ODVl)
 
 </div>
 
