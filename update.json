@@ -4,4 +4,7 @@
   "update_url": "https://github.com/neelniloy/lstv_app/releases/download/LSTV/app-release.apk",
   "update_changelog": "",
   "is_critical_update": false
+  "is_beta_active": false,
+  "beta_version_name": "1.7.1-beta",
+  "beta_update_url": "https://github.com/neelniloy/lstv_app/releases/download/v1.7.1-beta/LSTV_Prime_v1.7.1-beta.apk"
 }
